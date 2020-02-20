@@ -9,11 +9,11 @@ namespace var
     class Program
     {
         //gfgfgfgg
-        private const string V = "dodo";
+      
 
         static void Main(string[] args)
         {
-            string name = V;
+            string name = "ahmed";
             Console.WriteLine(name);
         }
     }
