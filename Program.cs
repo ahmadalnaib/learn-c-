@@ -8,7 +8,8 @@ namespace var
 {
     class Program
     {
-        private const string V = "ahmed";
+        //gfgfgfgg
+        private const string V = "dodo";
 
         static void Main(string[] args)
         {
